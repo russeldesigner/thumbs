@@ -57,6 +57,16 @@ h2 {
     margin-bottom: 10px;
 }
 
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
 footer p {
     text-align: center;
     font-size: 1.2em;
